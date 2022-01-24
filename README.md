@@ -6,7 +6,7 @@ The client has asked to analyze various school districts. The original request w
 ## School District Analysis Results
 - How is the district summary affected?
   - Overall, the district summary wasn't impacted by much even by omitting the 9th grader scores from Thomas High School.
-  - The most notcieable difference was in the reading passing rate where it dropped by 1.3%
+  - The most notcieable difference was in the reading passing rate where it dropped by 1.3%.
 
 **Original PyCitySchools District Summary:**
 ![Original_PyCitySchools_Summary](https://user-images.githubusercontent.com/44425379/150736760-0f15e234-5f1e-472c-9cba-977766e14f6b.png)
@@ -30,7 +30,7 @@ The client has asked to analyze various school districts. The original request w
   
 ## School Districts Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
--  % Passing Math rates were slightly lower
--  % Passing Reading rates were slightly lower
--  % Overall Passing rates were slightly lower
--  Average Reading and Math scores were slightly lower
+-  % Passing Math rates were slightly lower.
+-  % Passing Reading rates were slightly lower.
+-  % Overall Passing rates were slightly lower.
+-  Average Reading and Math scores were slightly lower.

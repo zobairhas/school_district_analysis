@@ -9,12 +9,12 @@ The client has asked to analyze various school districts. The original request w
   - The most notcieable difference was in the reading passing rate where it dropped by 1.3%
 ```
 Original PyCitySchools District Summary:
-
+![Original_PyCitySchools_Summary](https://user-images.githubusercontent.com/44425379/150736760-0f15e234-5f1e-472c-9cba-977766e14f6b.png)
 ```
 
 ```
-PyCitySchools District Summary wihtout THS 9th Grader Math/Reading Scores:
-
+PyCitySchools District Summary without THS 9th Grader Math/Reading Scores:
+![Updated_PyCitySchools_Summary](https://user-images.githubusercontent.com/44425379/150736804-5a115c80-8aa0-4b96-9587-ada9c70b1918.png)
 ```
 
 

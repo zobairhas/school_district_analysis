@@ -5,7 +5,7 @@ The client has asked to analyze various school districts. The original request w
  
 ## School District Analysis Results
 - How is the district summary affected?
-  - Overall, the district summary wasn't impacted by much even by omitting the 9th grader scores from Thomas High School.
+  - Overall, the district summary wasn't impacted by much even by omitting the ninth-grader scores from Thomas High School.
   - The most notcieable difference was in the reading passing rate where it dropped by 1.3%.
 
 **Original PyCitySchools District Summary:**
@@ -17,7 +17,7 @@ The client has asked to analyze various school districts. The original request w
 - How is the school summary affected?
   - There was little impact on the school summary. All of the high schools except for Thomas High School still had about the same performance rates. 
 - How does replacing the ninth-grader math and reading scores affect Thomas High School’s performance relative to the other schools?
-  - It did not impact the performance relative to the other schools. Thomas High School still mainted the same position as the number two school even though all ninth-grader scores were removed. Thomas High School's math, reading, and overall performance rates were lower by a small margin.  
+  - It did not impact the performance relative to the other schools. Thomas High School still maintained the same position as the number two school even though all ninth-grader scores were removed. Thomas High School's math, reading, and overall performance rates were lower by a small margin.  
 - How does replace the ninth-grade scores affect the following:
   - Math and reading scores by grade
     - Thomas High School was impacted due to the ninth-grade scores being removed.  
